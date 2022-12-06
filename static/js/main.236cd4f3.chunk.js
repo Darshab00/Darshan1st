@@ -1,2 +1,0 @@
-(this.webpackJsonpdarshan1=this.webpackJsonpdarshan1||[]).push([[0],{12:function(t,e,n){},14:function(t,e,n){"use strict";n.r(e);var r=n(1),c=n(3),s=(n(12),n(0));function o(){return Object(s.jsx)("h1",{children:"Helllo this is Darshan"})}var a=document.getElementById("root");Object(c.createRoot)(a).render(Object(s.jsx)(r.StrictMode,{children:Object(s.jsx)(o,{})}))}},[[14,1,2]]]);
-//# sourceMappingURL=main.236cd4f3.chunk.js.map
