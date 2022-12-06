@@ -1,0 +1,2 @@
+(this.webpackJsonpdarshan1=this.webpackJsonpdarshan1||[]).push([[0],{12:function(e,t,n){},14:function(e,t,n){"use strict";n.r(t);var c=n(1),r=n(3),s=(n(12),n(0));function o(){return Object(s.jsxs)(s.Fragment,{children:[Object(s.jsx)("h1",{children:"Helllo this is Darshan"}),";",Object(s.jsx)("h1",{children:"Google Seacrh Console Has Been Added"})]})}var a=document.getElementById("root");Object(r.createRoot)(a).render(Object(s.jsx)(c.StrictMode,{children:Object(s.jsx)(o,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.6e158346.chunk.js.map
